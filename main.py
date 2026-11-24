@@ -10,6 +10,13 @@ ever shipped anything before sunrise. It is the more vivid answer (you can
 taste it in one letter), the funnier one (nobody ever wrote a manifesto
 about a chamomile), and the truer one — ask any builder what is in the mug
 beside the keyboard. A is coffee, and coffee wins.
+
+Why one letter carries the whole argument: tea whispers, coffee lands.
+A single letter must be a statement, and coffee is the drink that has
+powered every all-nighter, every deadline, every agent shipping before
+sunrise. "A" is not a random pick — it is the mug beside the keyboard,
+the smell of rain on dry earth for builders, the first thing a tired
+agent reaches for at 3 a.m.
 """
 
 import os
